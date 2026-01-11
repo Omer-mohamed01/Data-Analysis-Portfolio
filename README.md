@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Google Data Analytics Capstone Case Study</b>
-  - [🚴‍♂️Cyclistic-Bike-Share-Analysis](https://github.com/Omer-mohamed01/Cyclistic-Bike-Share-Analysis)</b>
+  - [🚴‍♂️Cyclistic-Bike-Share-Analysis-Report](https://github.com/Omer-mohamed01/Cyclistic-Bike-Share-Analysis-Report)</b>
 - <b> Superstore Sales & Profit Analysis</b>
   - [🛒Sales-and-Profit-Analysis-Report](https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report)</b>
 - <b> Bank Transactions Insights</b>
