@@ -6,8 +6,6 @@
   - [🚴‍♂️Cyclistic-Bike-Share-Analysis-Report](https://github.com/Omer-mohamed01/Cyclistic-Bike-Share-Analysis-Report)</b>
 - <b> Superstore Sales & Profit Analysis</b>
   - [🛒Sales-and-Profit-Analysis-Report](https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report)</b>
-- <b> Bank Transactions Insights</b>
-  - [💼 Banking-Transaction-Analysis](https://github.com/Omer-mohamed01/Banking-Transaction-Analysis)</b>
 - <b> Healthcare Operations 2016</b>
   - [🩺 healthcare-appointment-no-show-analysis](https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis)</b>
 
