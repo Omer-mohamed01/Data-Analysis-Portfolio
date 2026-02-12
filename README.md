@@ -8,7 +8,7 @@
   - [🛒Sales-and-Profit-Analysis-Report](https://github.com/Omer-mohamed01/Sales-and-Profit-Analysis-Report)</b>
 - <b> Healthcare Operations 2016</b>
   - [🩺 healthcare-appointment-no-show-analysis](https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis)</b>
-  - <b> Marketplace Health & Logistics Optimizer</b>
+- <b> Marketplace Health & Logistics Optimizer</b>
   - [🩺 olist-ecommerce](https://github.com/Omer-mohamed01/olist-ecommerce)</b>
 
 <h2> 🤳 Contact with me:</h2>
@@ -17,3 +17,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/omar-metwally-839628225/
+omermohmud7@gmail.com
